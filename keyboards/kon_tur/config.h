@@ -3,13 +3,6 @@
 
 #pragma once
 
-// #define EE_HANDS
-#define MASTER_LEFT
-#define USE_I2C
-
-// Will eventually need to be set (for the 'styk')
-// #define SPLIT_LAYER_STATE_ENABLE
-
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
